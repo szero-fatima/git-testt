@@ -1,7 +1,15 @@
-*{
-    padding: 10px;
+h1{
     color: blue;
-    background-color: azure;
-    display: flex;
-    justify-content: center;
+    background-color: aliceblue;
+}
+p{
+    color: #891a1a;
+    font-size: 35px;
+    background-color: bisque;
+}
+div{
+    width: 400px;
+    height: 400px;
+    color:white;
+    background-color: green;
 }
